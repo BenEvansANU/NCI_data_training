@@ -8,7 +8,7 @@ GSKY accesses and analyses the big geospatial data on NCI’s cloud and high-per
  * Add geospatial data as a single layer.
  * Provide access to data subsets (e.g. groups of variables of interest) as data layer.
  * Serve multiple layers simultaneously overlaying on top of each other for comparative analysis.
- * Provide the same layer for different points of time allowing cross– sectional analysis.
+ * Provide the same layer for different points of time allowing cross–sectional analysis.
  * Allow users to download the raw data corresponding to a user-supplied bounding box.
 
 See the comprehensive `GKSY user manual here`_. 
