@@ -3,7 +3,7 @@ Where to Get Data
 
 The data can be accessed through both Raijin/Gadi global file system and vairous data services:
 
-To access data through NCI Lustre filesystems /g/data[1a,1b,2,..]/<NCI code>, which are available on NCI's Raijin or VDI systems, you need to join the project on `Mancini`_.
+To access data on NCI Lustre filesystems /g/data[1a,1b,2,..]/<NCI code>, which are available on NCI's Raijin and VDI systems, you need to join the project on `Mancini`_.
 
 .. _Mancini: https://my.nci.org.au
 
