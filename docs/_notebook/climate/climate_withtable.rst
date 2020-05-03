@@ -47,9 +47,9 @@ Alternatively, you can create your own environment on the VDI based on personal 
 
 Option 3: Gadi
 
-A Pangeo environment is configured on Gadi to accelerate optimal performance. Please refer to instructions on `how to run Jupyter notebooks on Gadi <../prep/pangeo.rst>`_. 
+A Pangeo environment is configured on Gadi for scalable analysis. Please refer to instructions on `how to run Jupyter notebooks on Gadi <../prep/pangeo.rst>`_. 
 
-Notes: Pangeo only provides essential packages, such as Xarray, Dask. It is sufficient to run most of the current climate examples. Other domain specific packages would need to be loaded (if it is available on Gadi) or installed in your personal project space. 
+Notes: The Pangeo installation only provides essential packages, such as Xarray, Dask, which is sufficient to run most of the current climate examples. Other domain specific packages would need to be loaded (if it is available on Gadi) or installed in your personal project space. 
 
         
 CMIP community wiki
@@ -66,7 +66,7 @@ COSIMA (Consortium for Ocean-Sea Ice Modelling in Australia) developed a framewo
 
 .. _github: https://github.com/COSIMA/cosima-cookbook
 
-`Francois Delage’s project at NCI's Gitlab`_ contains a number of Jupyter notebooks. His examples include selecting data from a DRS directory structure, regridding CMIP5 and CMIP6 data, and how to read the zarr data format. He also has another `git page on Github`_ to demonstrate working under Pangeo environment using a binder.
+`Francois Delage’s project on NCI's Gitlab`_ contains a number of Jupyter notebooks. His examples include selecting data from the filesystem DRS directory structure, regridding CMIP5 and CMIP6 data, and reading the zarr data format. He also has another `git page on Github`_ to demonstrate working under Pangeo environment using a binder.
 
 .. _Francois Delage’s project at NCI's Gitlab: https://git.nci.org.au/pfd548/bom-climate-change-variability-and-extreme-toolbox
 
